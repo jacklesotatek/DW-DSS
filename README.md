@@ -27,12 +27,12 @@ cần phần của Kiều Anh
  5. Easy to design the system star schema 
  6. Easy for analyze purpose like drill down , top down analysis , descriptive
 ## System in usage
+- Sale Forecast by Storecode , Month and Product Group
 ![Sales forecase](images/sales%20forecast.png)
-Sale Forecast by Storecode , Month and Product Group
+- In-deep analysis of the system data 
 ![Data Drilldown](images/data-drilldown-analysis.png)
-In-deep analysis of the system data 
+- DAX queries of the system so that we can customize and have a more in-depth analyze of the system
 ![DAX queries](images/DAX-queries.png)
-DAX queries of the system so that we can customize and have a more in-depth analyze of the system
 ## Evaluation
 Ngọc Anh : đây là phần của ông
 # Contributor
